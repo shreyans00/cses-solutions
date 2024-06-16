@@ -1,0 +1,1 @@
+{"name":"Local: subordinates","url":"c:\\c++\\cses\\trees\\subordinates.cpp","tests":[{"id":1694364392757,"input":"5\n1 1 2 3","output":""},{"id":1694364644629,"input":"1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++\\cses\\trees\\subordinates.cpp","group":"local","local":true}

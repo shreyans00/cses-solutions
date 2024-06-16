@@ -1,0 +1,1 @@
+{"name":"Local: project","url":"c:\\c++\\cses\\project.cpp","tests":[{"id":1690369130350,"input":"10\n14 14 98\n76 76 58\n94 94 57\n92 92 45\n82 82 14\n86 86 41\n87 87 72\n14 14 26\n27 27 85\n48 48 52","output":"522"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++\\cses\\project.cpp","group":"local","local":true}

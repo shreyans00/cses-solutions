@@ -1,0 +1,1 @@
+{"name":"Local: hit","url":"c:\\c++\\cses\\hit.cpp","tests":[{"id":1690053661037,"input":"4 10\n4 8 6 1","output":"2"},{"id":1690620865372,"input":"10 100\n36 16 7 33 2 53 25 48 32 11","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++\\cses\\hit.cpp","group":"local","local":true}

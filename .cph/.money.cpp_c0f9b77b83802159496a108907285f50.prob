@@ -1,0 +1,1 @@
+{"name":"Local: money","url":"c:\\c++\\cses\\money.cpp","tests":[{"id":1690231213586,"input":"4\n4 2 5 2","output":"6456"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++\\cses\\money.cpp","group":"local","local":true}

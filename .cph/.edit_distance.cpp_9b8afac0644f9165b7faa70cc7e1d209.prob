@@ -1,0 +1,1 @@
+{"name":"Local: edit_distance","url":"c:\\c++\\cses\\edit_distance.cpp","tests":[{"id":1690195213666,"input":"TWXFUABGBNLTBFNSUVQW\nGPNJILFXJUIZPLTVUIB","output":"19"},{"id":1690195615319,"input":"NGPYCNPO\nUQPXWVLGHC","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++\\cses\\edit_distance.cpp","group":"local","local":true}
